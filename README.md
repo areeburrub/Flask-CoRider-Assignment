@@ -2,6 +2,8 @@
 
 This is a simple Flask application that provides CRUD operations (Create, Read, Update, Delete) on a User resource using a MongoDB database. The application uses a REST API that can be accessed via HTTP requests and tested using Postman.
 
+Read Assignment : [Click Here](./SDE%20Intern%20Assignment.pdf)
+
 ## Features
 
 - **Create** a new user
