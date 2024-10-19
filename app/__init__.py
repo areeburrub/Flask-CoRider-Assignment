@@ -10,4 +10,8 @@ def create_app():
 
     mongo.init_app(app)
 
+    from app.routes import users_bp
+
+    app.register_blueprint(users_bp)
+
     return app
